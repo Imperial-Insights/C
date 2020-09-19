@@ -1,3 +1,5 @@
+//This is a basic code to add two integers
+
 #include<stdio.h>
 void main()
 {
