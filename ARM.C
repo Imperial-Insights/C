@@ -1,3 +1,14 @@
+/*Armstrong Digit : It is an certain number whose sum of cubes of individual digits is equal to itself
+ simple example take 153.....
+cubes of individual digits..
+1-1
+5-125
+3=9
+add all these you will certainly get 153
+programming this in a simple logic of C
+*/
+
+
 #include<stdio.h>
 void main()
 {
